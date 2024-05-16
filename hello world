@@ -1,2 +1,4 @@
 x = "Hello world"
 print(x)
+a = 3
+print(a+1)
